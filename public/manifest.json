@@ -1,0 +1,21 @@
+{
+  "name": "Wilmer Ricardo Urda - Portafolio Profesional",
+  "short_name": "Wilmer Urda",
+  "description": "Ingeniero Agroforestal y Desarrollador de Software especializado en monitoreo ambiental, análisis de datos y SIG",
+  "start_url": "/WilmerRicardo/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4B6043",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "education"],
+  "lang": "es",
+  "dir": "ltr"
+}
