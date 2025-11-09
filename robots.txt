@@ -1,0 +1,9 @@
+# Robots.txt para Portafolio Wilmer Ricardo Urda
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://wilnecot.github.io/WilmerRicardo/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10
