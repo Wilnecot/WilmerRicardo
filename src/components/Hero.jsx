@@ -60,7 +60,7 @@ const Hero = () => {
           {/* CTA Buttons */}
           <div className="flex flex-wrap gap-3 sm:gap-4 justify-center mb-12 animate-fade-in-up animation-delay-800 px-4">
             <a
-              href="/CV_WILMER.pdf"
+              href="/WilmerRicardo/CV_WILMER.pdf"
               download="CV_Wilmer_Ricardo_Urda.pdf"
               className="group flex items-center gap-2 px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-honey to-honey/90 text-white rounded-lg hover:from-honey/90 hover:to-honey transition-all duration-300 shadow-lg hover:shadow-2xl transform hover:-translate-y-1 text-sm sm:text-base"
               aria-label="Descargar CV en PDF"

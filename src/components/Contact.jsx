@@ -102,7 +102,7 @@ const Contact = () => {
                   <span>Enviar mensaje</span>
                 </a>
                 <a
-                  href="/CV_WILMER.pdf"
+                  href="/WilmerRicardo/CV_WILMER.pdf"
                   download="CV_Wilmer_Ricardo_Urda.pdf"
                   className="inline-flex items-center gap-2 px-6 py-3 bg-honey text-white rounded-lg hover:bg-honey/90 transition-colors duration-300 font-semibold shadow-lg"
                 >
